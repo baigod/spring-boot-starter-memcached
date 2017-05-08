@@ -1,0 +1,8 @@
+memcached:
+  servers: localhost:11211
+  protocol: BINARY
+  locatorType: CONSISTENT
+  opTimeout: 10000
+  username: null
+  password: null
+  health: false

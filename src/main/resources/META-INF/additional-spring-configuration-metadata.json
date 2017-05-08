@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "memcached.servers",
+    "type": "java.lang.String",
+    "description": "A description for 'memcached.servers'"
+  },
+  {
+    "name": "memcached.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'memcached.protocol'"
+  },
+  {
+    "name": "memcached.op-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'memcached.op-timeout'"
+  },
+  {
+    "name": "memcached.locator-type",
+    "type": "java.lang.String",
+    "description": "A description for 'memcached.locator-type'"
+  },
+  {
+    "name": "memcached.username",
+    "type": "java.lang.String",
+    "description": "A description for 'memcached.username'"
+  },
+  {
+    "name": "memcached.password",
+    "type": "java.lang.String",
+    "description": "A description for 'memcached.password'"
+  },
+  {
+    "name": "memcached.health",
+    "type": "java.lang.String",
+    "description": "A description for 'memcached.health'"
+  }
+]}
