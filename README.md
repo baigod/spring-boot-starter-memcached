@@ -34,5 +34,5 @@ memcached.servers=127.0.0.1:11211
 在兴趣的驱动下,写一个`免费`的东西，有欣喜，也还有汗水，希望你喜欢我的作品，同时也能支持一下。
 当然，有钱捧个钱场(微信支付），没钱捧个人场，谢谢各位。
 
-##捐助开发者
-![pay](http://cdn.51szzc.com/custom/pay2luheng.png)
+##捐助开发者<br>
+![pay](http://cdn.51szzc.com/custom/pay2luheng.png?v1)
