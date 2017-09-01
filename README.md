@@ -23,7 +23,16 @@ memcached.servers=127.0.0.1:11211
 
 ```
 
+#####本项目的parent，可以自行修改，本人使用的是上层pom是
+```java
+<parent>
+    <groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-parent</artifactId>
+	<version>1.5.6.RELEASE</version>
+</parent>
+```
 
+你们可以根据自己的需要，添加三方依赖
 
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
