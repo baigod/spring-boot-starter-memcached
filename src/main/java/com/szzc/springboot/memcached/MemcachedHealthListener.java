@@ -1,4 +1,4 @@
-package cn.utsoft.springboot.memcached;
+package com.szzc.springboot.memcached;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
