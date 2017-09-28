@@ -1,4 +1,4 @@
-package com.szzc.springboot.memcached.utils;
+package me.douboo.springboot.memcached.utils;
 
 import java.util.concurrent.ExecutionException;
 

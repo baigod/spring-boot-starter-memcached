@@ -1,1 +1,5 @@
 /.apt_generated/
+.factorypath
+.classpath
+.settings/
+target/

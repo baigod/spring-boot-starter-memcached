@@ -1,4 +1,4 @@
-package com.szzc.springboot.memcached;
+package me.douboo.springboot.memcached;
 
 import org.springframework.context.annotation.Import;
 

@@ -1,4 +1,4 @@
-package com.szzc.springboot.memcached;
+package me.douboo.springboot.memcached;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
@@ -13,7 +13,7 @@ public class MemcachedProperties {
 	private long opTimeout = 1000L;
 	private String username;
 	private String password;
-	private boolean health= false;
+	private boolean health = true;
 
 	public String getServers() {
 		return servers;
@@ -70,7 +70,5 @@ public class MemcachedProperties {
 	public void setHealth(boolean health) {
 		this.health = health;
 	}
-	
-	
 
 }

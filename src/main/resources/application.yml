@@ -5,4 +5,4 @@ memcached:
   opTimeout: 10000
   username: null
   password: null
-  health: false
+  health: true
