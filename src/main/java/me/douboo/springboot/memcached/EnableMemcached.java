@@ -6,7 +6,7 @@ import java.lang.annotation.*;
 
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
-@Import({ MemcachedAutoConfiguration.class, MemcachedHealthListener.class })
+@Import({ MemcachedAutoConfiguration.class })
 @Documented
 public @interface EnableMemcached {
 }
