@@ -11,7 +11,7 @@
 
 	<groupId>me.douboo.springboot</groupId>
 	<artifactId>spring-boot-starter-memcached</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<packaging>jar</packaging>
 
 	<name>spring-boot-starter-memcached</name>
