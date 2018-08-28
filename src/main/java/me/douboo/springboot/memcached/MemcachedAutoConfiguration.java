@@ -21,7 +21,6 @@ import net.spy.memcached.auth.AuthDescriptor;
 import net.spy.memcached.auth.PlainCallbackHandler;
 
 @Configuration
-// @AutoConfigureOrder(Ordered.LOWEST_PRECEDENCE)
 @EnableConfigurationProperties(MemcachedProperties.class)
 public class MemcachedAutoConfiguration {
 
